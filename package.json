@@ -1,0 +1,14 @@
+{
+  "name": "simple-whatsapp-bot-plus",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.5",
+    "express": "^4.19.2",
+    "pino": "^9.0.0"
+  }
+}
